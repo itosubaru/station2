@@ -1,1 +1,1 @@
-alert(Hello,subaru)
+alert('Hello,subaru');
