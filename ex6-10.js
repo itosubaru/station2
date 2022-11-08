@@ -1,1 +1,3 @@
-function rogochange1(){document.getElementById('rogo1').innerHTML='<img src="./image/josairogoname.jpg" alt="城西ロゴ名前入り">';}
+function imgchange1(){document.getElemntById('logo').src='./image/josairogo.png';
+funvtion imgchange2(){document.getElmentById('logo').src='./image/josairogoname.jpg';
+                      
