@@ -4,3 +4,4 @@ function hyoji(){
  //テキストボックスの文字数
  var cnt = document.timer.moji.value.lenghth;
  //文字が全部表示されているか確認
+}
