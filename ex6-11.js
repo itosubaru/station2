@@ -10,6 +10,6 @@ function hyoji(){
  else{
   //全て表示されたら、空文字に戻す
   document.timer.moji.value="";}}
-function starfnc(){
+function startfnc(){
  //関数hyoji()を１０００ミリ秒間隔で呼び出す
  setInterval("hyoji()",1000);}
