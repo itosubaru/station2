@@ -1,4 +1,2 @@
-function imgchange3(){ document.getElementById('logo2').src='./image/josairogo.png';}
-
-function hyoji14(){ document.timer14.logo2="./image/josairogoname.jpg";}
-function startfnc(){ setInterval("hyoji14()",1000);}
+function imgchange14(){ document.getElementById('logo2').src='./image/josairogo.png';}
+function imgchange14-2(){ document.getElementById('logo2-2').src='./image/josairogoname/jpg';}
